@@ -55,4 +55,4 @@ Nette Framework adds `required` class to all mandatory elements. Adding the foll
 
 -----
 
-[![Build Status](https://secure.travis-ci.org/nette/forms.png?branch=master)](http://travis-ci.org/nette/forms)
+[![Build Status](https://secure.travis-ci.org/nette/forms.png?branch=v2.2)](http://travis-ci.org/nette/forms)
